@@ -17,5 +17,6 @@
     "postcss": "8.1.7",
     "tailwindcss": "^2.0.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "cacheDirectories": [".next/cache"]
 }
